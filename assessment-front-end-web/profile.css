@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    color: purple;
+  }
+  
+  main {
+    background-color:lightgreen;
+  }
+  
+  img{
+    border: double;
+    width: 230px
+  }
+  
+  h1 {
+    text-align: center;
+    color: lightgreen;
+    background-color: red;
+    font-weight: 255px;
+    font-family: Courier New;
+    padding-right: 1px;
+    padding-left: 1px;
+    border: double;
+    }
+  
+  h3{
+    font-family: Courier New
+  }
+  
+  li {
+    text-decoration: underline overline;
+    margin-right: 30px;
+  }
+
+
+  main {
+    background-color: green;
+  }
